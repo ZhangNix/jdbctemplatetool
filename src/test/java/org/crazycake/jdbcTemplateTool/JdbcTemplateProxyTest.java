@@ -51,4 +51,5 @@ public class JdbcTemplateProxyTest extends AbstractJUnit4SpringContextTests {
 		
 	}
 
+	// Test
 }
